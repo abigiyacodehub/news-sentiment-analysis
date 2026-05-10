@@ -18,12 +18,15 @@ from src.technical_indicators import fill_missing_price_data, load_price_data
 def main() -> None:
     news_path = PROJECT_ROOT / "data" / "raw" / "financial_news_sample.csv"
     price_path = PROJECT_ROOT / "data" / "raw" / "aapl_historical_prices_sample.csv"
+    multi_price_path = PROJECT_ROOT / "data" / "raw" / "multi_stock_prices_sample.csv"
 
     news = add_headline_features(pd.read_csv(news_path))
     prices = fill_missing_price_data(load_price_data(price_path))
+    multi_prices = pd.read_csv(multi_price_path)
 
     print(f"News rows: {len(news)}")
     print(f"Price rows: {len(prices)}")
+    print(f"Multi-stock price rows: {len(multi_prices)}")
     print("Datasets validated successfully.")
 
 
