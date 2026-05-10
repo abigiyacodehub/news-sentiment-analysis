@@ -1,0 +1,45 @@
+date,publisher,stock,headline,market_event
+2024-01-12,Bloomberg,MSFT,Microsoft briefly becomes most valuable company as AI demand lifts cloud outlook,AI leadership and valuation rotation
+2024-01-12,CNBC,MSFT,Microsoft shares climb after analysts raise Azure growth forecasts,AI leadership and valuation rotation
+2024-01-12,Reuters,AAPL,Apple slips as investors compare iPhone demand with Microsoft AI momentum,AI leadership and valuation rotation
+2024-01-30,CNBC,MSFT,Microsoft Azure revenue surges as enterprise Copilot adoption accelerates,Earnings results
+2024-01-30,Wall Street Journal,MSFT,Microsoft profit beats estimates while cloud backlog reaches record level,Earnings results
+2024-02-01,CNBC,AMZN,Amazon earnings beat expectations as advertising and AWS growth improve,Earnings results
+2024-02-01,Yahoo Finance,AAPL,Apple reports record services revenue but China iPhone sales remain under pressure,Earnings results
+2024-02-02,MarketWatch,AMZN,Amazon shares rally after operating margin expands faster than expected,Earnings results
+2024-03-04,Reuters,AAPL,Apple faces European Union antitrust fine over App Store payment rules,Regulatory pressure
+2024-03-04,Financial Times,AAPL,Apple investors weigh EU penalty risk against services revenue strength,Regulatory pressure
+2024-03-06,Reuters,AMZN,Federal judge allows FTC antitrust case against Amazon to move forward,Regulatory pressure
+2024-03-14,Reuters,GOOGL,European regulators fine Google over advertising market abuse allegations,Regulatory pressure
+2024-03-14,Financial Times,GOOGL,Google antitrust worries deepen as investors assess possible ad business remedies,Regulatory pressure
+2024-04-02,CNBC,TSLA,Tesla misses quarterly delivery estimates as electric vehicle competition intensifies,Delivery results
+2024-04-02,Electrek,TSLA,Tesla shares fall after deliveries decline year over year for first time,Delivery results
+2024-04-22,Electrek,TSLA,Tesla cuts Model Y prices again to defend market share,Price cuts and margin pressure
+2024-04-25,CNBC,GOOGL,Alphabet revenue beats expectations as Google Cloud growth accelerates,Earnings results
+2024-04-25,TechCrunch,MSFT,Microsoft Copilot demand drives record enterprise software subscription growth,Earnings results
+2024-04-26,TechCrunch,GOOGL,Google Cloud revenue accelerates as AI infrastructure spending rises,Earnings results
+2024-04-29,Reuters,GOOGL,Alphabet announces major stock buyback after stronger than expected earnings,Earnings results
+2024-05-02,CNBC,AAPL,Apple announces largest share buyback in company history after earnings,Capital returns
+2024-05-02,Bloomberg,AAPL,Apple stock jumps as buyback offsets concerns about China demand,Capital returns
+2024-05-14,Bloomberg,TSLA,Tesla falls after Elon Musk stock sale revives leadership focus concerns,Leadership and governance
+2024-06-05,Reuters,TSLA,NHTSA opens investigation into Tesla autopilot safety complaints,Regulatory pressure
+2024-06-10,Apple,AAPL,Apple unveils artificial intelligence features at WWDC developer conference,AI product launch
+2024-06-10,TechCrunch,AAPL,Apple Intelligence announcement boosts hopes for iPhone upgrade cycle,AI product launch
+2024-06-10,MarketWatch,AAPL,Apple suppliers rise as investors bet on AI driven device refresh,AI product launch
+2024-07-18,Business Insider,AMZN,Amazon Prime Day breaks sales record as consumers respond to discounts,Consumer demand
+2024-07-23,Wall Street Journal,TSLA,Tesla profit margin narrows as price cuts weigh on earnings,Earnings results
+2024-07-23,Tesla IR,TSLA,Tesla reports quarterly results after market close with focus on robotaxi plans,Earnings results
+2024-07-25,Wall Street Journal,AMZN,Amazon advertising revenue tops expectations and supports margin expansion,Earnings results
+2024-07-29,Bloomberg,GOOGL,YouTube advertising revenue grows faster than expected in latest quarter,Earnings results
+2024-07-30,Wall Street Journal,MSFT,Microsoft Azure growth slows slightly below consensus despite AI demand,Earnings results
+2024-08-08,Teslarati,TSLA,Tesla showcases robotaxi and humanoid robot progress at AI Day,AI product launch
+2024-08-20,MarketWatch,AAPL,Apple AI features expected to drive stronger iPhone upgrade cycle,AI product launch
+2024-08-22,Google Blog,GOOGL,Google expands healthcare AI partnerships with hospitals and research groups,AI product launch
+2024-09-04,TechCrunch,GOOGL,Google Gemini gains enterprise adoption after benchmark improvements,AI product launch
+2024-09-16,Wall Street Journal,MSFT,Microsoft raises dividend and expands buyback authorization,Capital returns
+2024-09-23,Not A Tesla App,TSLA,Tesla full self driving subscription revenue rises as software features improve,AI product launch
+2024-10-10,Wall Street Journal,AAPL,Apple stock hits record high as AI optimism lifts megacap technology shares,AI rally
+2024-10-23,Tesla IR,TSLA,Tesla releases quarterly delivery and financial report after market close,Earnings results
+2024-10-28,Bloomberg,AAPL,Apple production cuts signal weaker holiday demand for new iPhone models,Demand concern
+2024-10-29,Wall Street Journal,GOOGL,Google search AI features support record advertising revenue,Earnings results
+2024-10-29,Microsoft IR,MSFT,Microsoft schedules fiscal first quarter earnings with cloud spending in focus,Earnings results
