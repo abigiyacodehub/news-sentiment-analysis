@@ -42,9 +42,10 @@ pytest -q
 jupyter notebook notebooks/task_1_eda.ipynb
 ```
 
-For Task 2 technical indicators:
+For Task 2 technical indicators, install the TA-Lib notebook dependency:
 
 ```bash
+pip install -r requirements-task2.txt
 jupyter notebook notebooks/task_2_technical_indicators.ipynb
 ```
 
