@@ -1,2 +1,1 @@
 -r requirements.txt
-TA-Lib>=0.4.28
