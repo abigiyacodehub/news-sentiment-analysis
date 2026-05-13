@@ -9,3 +9,4 @@ nltk>=3.8
 textblob>=0.18
 yfinance>=0.2
 pynance>=1.0
+streamlit>=1.35

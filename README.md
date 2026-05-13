@@ -61,6 +61,16 @@ For Task 3 sentiment-return correlation:
 jupyter notebook notebooks/task_3_sentiment_correlation.ipynb
 ```
 
+To run the Streamlit dashboard:
+
+```bash
+streamlit run streamlit_app.py
+```
+
+The dashboard provides interactive views for news EDA, technical indicators,
+and sentiment-return correlation. It can use the committed sample CSVs or the
+larger `newsData.zip` file when that file is available locally.
+
 To validate the bundled datasets:
 
 ```bash
